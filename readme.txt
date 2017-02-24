@@ -3,4 +3,7 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called Stage.
 Git awesome.
 git branch day1
-add dev
+
+add merge--day1
+add branch day2
+issue101-debug
