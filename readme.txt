@@ -5,3 +5,4 @@ Git awesome.
 git branch day1
 
 add merge--day1
+add branch day2
